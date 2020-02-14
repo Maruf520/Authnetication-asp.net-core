@@ -54,6 +54,7 @@ namespace Authentication_app
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
+        
 
             app.UseEndpoints(endpoints =>
             {

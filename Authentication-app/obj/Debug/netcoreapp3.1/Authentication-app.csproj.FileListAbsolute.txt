@@ -145,3 +145,7 @@ C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\bin\Debug\netcoreap
 C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\obj\Debug\netcoreapp3.1\Authentication-app.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRole.cshtml.g.cs
+C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\Maruf\Desktop\Authentication-app\Authentication-app\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditeUserInRole.cshtml.g.cs
